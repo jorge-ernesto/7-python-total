@@ -1,0 +1,54 @@
+---- Python TOTAL ----
+
+---- Días pendientes del curso "Python TOTAL - Programador Avanzado en 16 días" ----
+
+	- dia-10-juego-pygame (PENDIENTE)
+	- dia-12-tkinter (PENDIENTE)
+	- dia-14-reconocimiento-facial (PENDIENTE)
+	- dia-16-django (PENDIENTE)
+
+---- Dia 15 - Programa un Modelo de Machine Learning ----
+
+Archivos
+    - 1_python_total_numpy.ipynb         ----> Vimos Numpy y Pandas         ----> https://colab.research.google.com/drive/1vp7zrchG_pJF3uzEgbCjfb_piu43mJXS
+    - 2_python_total_pandas.py           ----> Vimos Pandas y Matplotlib    ----> https://colab.research.google.com/drive/1-E33EMCehgPnmqgwm13-SZSnVYOHMpuQ
+    - 3_python_total_matplotlib          ----> Vimos Matplotlib             ----> https://colab.research.google.com/drive/1MX9ee5h_TTEc0HqZA6f6Ns6J4rwReHOH
+    - 4_python_total_machine_learning.py ----> Vimos Seaborn y Scikit-learn ----> https://colab.research.google.com/drive/1zRVPpLLmhMkmhX_kB9qrWUppHzRTJPFM
+
+---- Notas ----
+
+Modulos instalados
+    # Para poder ver los modulos instalados
+    conda list
+
+    # Para poder ver un modulo especifico y su version
+    conda list <modulo>
+
+    # Limpiar cache de conda
+    conda clean -all
+
+    # Dia 15
+        # numpy
+        # https://anaconda.org/anaconda/numpy/
+        # https://numpy.org/
+        conda install numpy                             # Ejecutar en Anaconda Prompt
+
+        # pandas
+        # https://anaconda.org/anaconda/pandas/
+        # https://pandas.pydata.org/
+        conda install pandas                            # Ejecutar en Anaconda Prompt
+
+        # matplotlib
+        # https://anaconda.org/anaconda/matplotlib/
+        # https://matplotlib.org/
+        conda install matplotlib                        # Ejecutar en Anaconda Prompt
+
+        # seaborn
+        # https://anaconda.org/anaconda/seaborn/
+        # https://seaborn.pydata.org/
+        conda install seaborn                           # Ejecutar en Anaconda Prompt
+
+        # scikit-learn
+        # https://anaconda.org/anaconda/scikit-learn/
+        # https://scikit-learn.org/stable/
+        conda install scikit-learn                      # Ejecutar en Anaconda Prompt

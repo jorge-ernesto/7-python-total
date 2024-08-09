@@ -1,0 +1,18 @@
+Ejecutar archivos con Pylint:
+
+    pylint practica_pylint.py -r y
+    pylint posible_solucion_pylint.py -r y
+
+    -r: Quiere decir Reporte
+    y: Quiere decir Yes
+
+Notas:
+
+    Ver los videos del curso "Python TOTAL - Programador Avanzado en 16 días":
+        112. Buscar Errores con Pylint
+        113. Práctica sobre Pylint
+
+    Los archivos los descargue del video "113. Práctica sobre Pylint"
+    y no se modificaron
+
+    El mensaje de retorno que da pylint se puede traducir en Google Translate
